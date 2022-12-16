@@ -1,4 +1,5 @@
 import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
 
 export default function App() {
   return (
@@ -11,8 +12,9 @@ export default function App() {
           target="_blank"
           rel="noreferrer"
         >
-          open-sourced on GitHub
-        </a>
+          open-sourced
+        </a>{" "}
+        on GitHub
       </footer>
     </div>
   );
