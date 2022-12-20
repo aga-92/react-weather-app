@@ -30,6 +30,12 @@ img .icon {
 }
 .Weather .units {
   position: relative;
-  top: 30px;
+  top: -12px;
   margin-left: 3px;
+}
+a {
+  text-decoration: none;
+}
+input {
+  margin: 20px;
 }
